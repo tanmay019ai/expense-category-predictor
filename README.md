@@ -1,2 +1,24 @@
-# expense-category-predictor
- Classical ML project to predict expense categories using text &amp; amount (No API)
+# Expense Category Prediction Engine (No API)
+
+This project predicts expense categories using classical machine learning.
+No APIs or LLMs are used — only maths-based ML models.
+
+## Features
+- Text + amount based prediction
+- Supervised classification
+- Clean ML pipeline
+
+## Tech Stack
+- Python
+- Scikit-learn
+- Pandas
+- TF-IDF Vectorization
+
+## Project Structure
+- data/ → dataset
+- src/ → ML scripts
+- models/ → saved models
+- notebooks/ → experiments
+
+## Status
+🚧 Initial setup completed
