@@ -1,0 +1,31 @@
+description,amount,category
+Pizza order from dominos,450,Food
+Burger and fries,300,Food
+Lunch at college canteen,120,Food
+Dinner at restaurant,650,Food
+Bought vegetables from market,180,Food
+Grocery shopping rice and oil,900,Food
+
+Bus ticket to college,40,Transport
+Auto fare home,120,Transport
+Uber ride to mall,250,Transport
+Metro recharge,500,Transport
+Cab fare airport,850,Transport
+Bike petrol refill,300,Transport
+
+Netflix monthly subscription,499,Entertainment
+Movie ticket,350,Entertainment
+Spotify premium,129,Entertainment
+Gaming recharge,299,Entertainment
+Concert ticket booking,1200,Entertainment
+OTT yearly subscription,1999,Entertainment
+
+Electricity bill payment,1200,Utilities
+Mobile recharge prepaid,399,Utilities
+WiFi broadband bill,799,Utilities
+Water bill payment,300,Utilities
+Gas cylinder booking,1100,Utilities
+Electric maintenance charges,500,Utilities
+
+Bought shoes online,2200,Shopping
+Purchased jeans,1800,Shopping
